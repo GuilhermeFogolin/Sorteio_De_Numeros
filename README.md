@@ -8,6 +8,7 @@
 - Aplicação da chave SSH;
 - Emprego do Git no Visual Studio Code;
 - Conflitos em commits;
+- GitHub Gist;
 - Boas práticas de trabalhos e colaboração com o GitHub.
 
 <h2>📖 Certificado de conclusão Alura </h2>
